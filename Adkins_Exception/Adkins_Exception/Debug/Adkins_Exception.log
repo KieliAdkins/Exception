@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\kieli\source\repos\adkins_exception\adkins_exception\main.cpp(68): warning C4018: '<': signed/unsigned mismatch
+  Adkins_Exception.vcxproj -> C:\Users\kieli\source\repos\Adkins_Exception\Debug\Adkins_Exception.exe
